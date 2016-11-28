@@ -22,6 +22,7 @@ brooklyn.catalog:
   name: Storm Deployment
   description: A Storm cluster. Apache Storm is a distributed realtime computation system. Storm makes it easy to reliably process unbounded streams of data, doing for realtime processing what Hadoop did for batch processing
   itemType: template
+  iconUrl: https://upload.wikimedia.org/wikipedia/commons/7/70/Storm_logo.png
   license: Apache-2.0
   publish:
     license_code: Apache-2.0
